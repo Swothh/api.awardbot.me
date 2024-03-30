@@ -1,16 +1,5 @@
 # AwardBot - A open-source giveaway bot.<br/>
 
-## Developers
-<table>
-   <tr>
-      <td align="center"><a href="https://github.com/swothh">
-        <img src="https://github.com/swothh.png?size=100" width="100px;" alt=""/>
-        <br />
-        <sub><b>Swoth</b></sub></a><br />
-     </td>
-   </tr>
-</table>
-
 ## 🛠 Run Server
 
 ```bash
